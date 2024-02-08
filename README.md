@@ -3,5 +3,5 @@
 Search Similarity of document using term vector and cossine similary distance.
 
 ## Google Collab Demo
-Just Click (https://colab.research.google.com/drive/1W5_BqnBKSAuZUPzdRUdmUrTD3T9FOBwM?usp=sharing
-) Here
+Just Click [https://colab.research.google.com/drive/1W5_BqnBKSAuZUPzdRUdmUrTD3T9FOBwM?usp=sharing
+] (Here)
