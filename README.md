@@ -1,6 +1,6 @@
 # document-similarity-finder
 
-Search Similarity of document using term vector and cossine similary distance.
+Search for Similarity of documents using term vectors and cossine similary distance. Vector Space Model(VSM) for Information Retrieval represents documents and queries as vectors of weight.  For each document and query, will calculate the cosine of the angle as ratio between inner product between document vector and query vector. The highest similarity of document to query vector is the result of seaching. And this demonstrates the processes from scratch.
 
 ## Google Collab Demo
 Just Click [Here](https://colab.research.google.com/drive/1W5_BqnBKSAuZUPzdRUdmUrTD3T9FOBwM?usp=sharing)
